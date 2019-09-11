@@ -1,1 +1,1 @@
-#An Exploratory Analysis of The Bachelor
+An Exploratory Analysis of The Bachelor
